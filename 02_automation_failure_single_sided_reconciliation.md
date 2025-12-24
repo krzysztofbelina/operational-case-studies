@@ -1,4 +1,4 @@
-# Case 02 — Automation Failure Caused by Single-Sided Reconciliation Design
+Automation Failure Caused by Single-Sided Reconciliation Design
 
 ## Executive Failure Summary
 A reconciliation automation initiative was **approved as a reconciliation solution despite operating on single-sided data**, making reconciliation logically impossible by design.  
