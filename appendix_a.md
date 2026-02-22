@@ -279,5 +279,3 @@ Purpose:
 Structural governance diagnosis, not academic queue modelling.
 
 ---
-
-End of Appendix
